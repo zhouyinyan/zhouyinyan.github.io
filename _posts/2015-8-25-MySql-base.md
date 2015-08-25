@@ -1,3 +1,9 @@
+---
+layout: post
+title: MySql 基础
+---
+
+
 # MySql BASE #
 ----------
 ### DDL语句 ###
