@@ -5,7 +5,7 @@ title: MySql 基础
 
 
 # MySql BASE #
-----------
+
 ### DDL语句 ###
 
 1. 创建数据库

@@ -5,7 +5,6 @@ title: MySql 存储引擎
 
 ### MySql 存储引擎 ###
 
-----------
 1. 概述
 
 	MySql支持的存储引擎包括MyISAM，InnoDB，MEMORY，MERGE，NDB等，其中MyISAM和InnoDB最常用。
